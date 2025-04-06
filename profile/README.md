@@ -10,7 +10,7 @@
 
 ### МЛ для "01.Python"
 - [python-labs](https://github.com/SITj-Team/python-labs): лабораторные работы
-- [python-lections](https://): лекции/уроки
+- [python-lections](https://github.com/SITj-Team/python-lections): лекции/уроки
 - [python-dops](https://): дополнительные материалы
 
 ### МЛ для "02.Frontend"
