@@ -15,7 +15,7 @@
 
 ### МЛ для "02.Frontend"
 - [frontend-labs](https://github.com/SITj-Team/frontend-labs): лабораторные работы
-- [frontend-lections](https://): лекции/уроки
+- [frontend-lections](https://github.com/SITj-Team/frontend-lections): лекции/уроки
 
 ### МЛ для "03.AI"
 - [ai-labs](https://github.com/SITj-Team/ai-labs): лабораторные работы
