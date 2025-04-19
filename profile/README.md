@@ -28,5 +28,5 @@
 - [dgo](https://github.com/SITj-Team/dgo): лаборатория
 
 ### Дополнительные МЛ
-- [git/github](https://): лекции/уроки по git
-- [pc](https://): все дополнительные лекции/уроки по работе с компьютером
+- [git/github](https://github.com/SITj-Team/git): лекции/уроки по git
+- [pc](https://github.com/SITj-Team/pc): все дополнительные лекции/уроки по работе с компьютером
